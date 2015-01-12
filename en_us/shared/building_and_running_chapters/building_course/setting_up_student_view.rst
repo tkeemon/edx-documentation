@@ -26,8 +26,8 @@ See:
 * :ref:`Add a Course Image`
 * :ref:`Add a Course Video`
 * :ref:`Set Course Requirements`
+* :ref:`Set Content Licensing`
 * :ref:`A Template For Course Overview`
-
 
 .. _Edge: http://edge.edx.org
 .. _edX.org: http://edx.org
@@ -46,9 +46,6 @@ Studio, as described in this chapter:
 .. image:: ../../../shared/building_and_running_chapters/Images/about_page.png
  :alt: An image of the course summary page.
 
-
-
-
 .. _The Student Dashboard:
 
 ***********************************
@@ -63,8 +60,6 @@ see the start date, as explained in this chapter.
 
 .. image:: ../../../shared/building_and_running_chapters/Images/dashboard.png
  :alt: An image of the dashboard
-
-
 
 .. _Set Important Dates for Your Course:
 
@@ -84,7 +79,6 @@ Follow the on-screen text to enter the course and enrollment schedule.
 .. note:: 
  The Time fields on this page, and the times that students see, use UTC
  (Universal Coordinated Time)
-
 
 .. _The Course Start Date:
 
@@ -124,9 +118,6 @@ courses, as in the following examples.
 
 .. note:: If you do not specify a start time for your course, students see
    the default start time, 00:00 Coordinated Universal Time (UTC).
-
-
-
 
 .. _Set the Advertised Start Date:
 
@@ -210,7 +201,6 @@ examples.
    :alt: Image of a course on the student dashboard that has ended, but not
      been graded
 
-
 .. _Describe Your Course:
 
 ************************
@@ -252,29 +242,28 @@ page:
 Add a Course Image
 ************************
 
-The course image that you add in Studio appears on the student dashboard. It
-should be a minimum of 378 pixels in width by 225 pixels in height, and in .jpg
-or .png format. Make sure the image that you upload maintains the aspect ratio
-of those dimensions so that the image appears correctly on the student
-dashboard.
+The course image that you add in Studio appears on the student dashboard. 
+
+On Edge_, the image also appears on the course summary page.
 
 In the following example, the course image that was added in Studio is circled
-in the student dashboard.
+in the student dashboard:
 
 .. image:: ../../../shared/building_and_running_chapters/Images/dashboard-course-image.png
  :alt: Image of the course image in the student dashboard
 
+On edX.org_, the course image you add in Studio does not appear on the course
+summary page automatically. You must work directly with your edX Program Manager
+to set up the course summary page.
+
+The course image should be a minimum of 660 pixels in width by 240 pixels in
+height, and in .JPG or .PNG format.
 
 #. From the **Settings** menu, select **Schedule & Details**.
 #. Scroll down to the **Course Image** section.
 #. To select an image from your computer, click **Upload Course Image**, then
    follow the prompts to find and upload your image.
 #. View your dashboard to test how the image will appear to students.
-
-.. note:: On edX.org_, the course image you add in Studio is used on the student
-   dashboard, but does not automatically appear on the course About page. Work
-   directly with your edX program manager to set up the About page assets and
-   course image for the course summary page.
 
 .. _Add a Course Video:
 
@@ -332,13 +321,45 @@ To add a course introduction video:
 ************************
 Set Course Requirements
 ************************
+
 The estimated Effort per Week appears at the bottom of the course summary page.
 
 #. From the **Settings** menu, select **Schedule & Details**.
 #. Scroll down to the **Requirements** section.
 #. In the **Hours of Effort per Week** field, enter the number of hours you
    expect students to work on this course each week.
-#. View your course summary page to test how the requirements will appear to students.
+#. View your course summary page to test how the requirements will appear to
+   students.
+
+.. _Set Content Licensing:
+
+************************************************
+Set Content Licensing
+************************************************
+
+When you :ref:`create a course <Create a New Course>`, you set the default
+licensing information for the course and videos. You can also set the default
+licensing information for content and videos in your course in the **Schedule &
+Details** page.
+
+.. image:: ../../../shared/building_and_running_chapters/Images/course_license.png
+ :alt: Set course licensing in the Schedule & Details page.
+
+* Select **All Rights Reserved** to indicate to students that you own the
+  copyright for course content.
+
+* Select **Creative Commons** to grant others to right to share and use course
+  content. You must then select the Creative Commons license options to apply:
+
+  .. image:: ../../../shared/building_and_running_chapters/Images/creative-commons-license-course.png
+   :alt: The Creative Commons license options
+
+  See :ref:`Licensing a Course` for more information about license options.
+
+  The license options that you select apply to all course content including
+  videos, unless you explicitly specify different licensing options for your
+  videos. For details about specifying licensing options for each video in the
+  course, see :ref:`Video Advanced Options`.
 
 .. _A Template For Course Overview:
 
@@ -346,7 +367,6 @@ The estimated Effort per Week appears at the bottom of the course summary page.
  A Template For Your Course Overview
 ************************************************
 
-  
 Replace the placeholders in the following template with your information.
 
 .. code-block:: html

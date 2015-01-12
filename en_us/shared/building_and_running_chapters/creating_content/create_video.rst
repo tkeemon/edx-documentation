@@ -212,7 +212,7 @@ Step 4. Create a Video Component
       http://youtu.be/OEoXaMPEzfM
       http://www.youtube.com/watch?v=OEoXaMPEzfM
       https://s3.amazonaws.com/edx-course-videos/edx-edx101/EDXSPCPJSP13-G030300.mp4
-      https://s3.amazonaws.com/edx-videos/edx101/video4.webm	
+      https://s3.amazonaws.com/edx-videos/edx101/video4.webm  
 
 .. note:: To be sure all students can access the video, we recommend 
     providing both an .mp4 and a .webm version of your video. To do this, you
@@ -309,6 +309,28 @@ The following options appear on the **Advanced** tab in the video component.
     * - **EdX Video ID**
       - An optional field used only by course teams that are working with
         edX to process and host video files.
+    
+    * - **License**
+      - Optionally, you can set the license for the video, if you want to
+        release the video with a license different from that of the overall
+        course license.
+
+        * Select **All Rights Reserved** to indicate to students that you own
+          the copyright for the video.
+
+        * Select **Creative Commons** to grant others the right to share and
+          use the video. You must then select the Creative Commons license
+          options to apply:
+
+          .. image:: ../../../shared/building_and_running_chapters/Images/creative-commons-license-course.png
+            :alt: The Creative Commons license options
+
+          See :ref:`Licensing a Course` for more information about license
+          options.
+
+          The license options you select control the copyright notice students
+          see for the video.
+
     * - **Show Transcript**
       - Specifies whether the transcript plays along with the video by default.
     * - **Transcript Languages**
