@@ -345,14 +345,15 @@ Details** page.
 .. image:: ../../../shared/building_and_running_chapters/Images/course_license.png
  :alt: Set course licensing in the Schedule & Details page.
 
-* Select **All Rights Reserved** to indicate to students that you own the
-  copyright for course content.
+By default, the course licensing is **All Rights Reserved** to indicate to
+learners that you own the copyright for course content.
 
-* Select **Creative Commons** to grant others to right to share and use course
-  content. You must then select the Creative Commons license options to apply:
+* You can change licensing to **Creative Commons** to grant learners the right
+  to share and use course content. You must then select the Creative Commons
+  license options to apply:
 
   .. image:: ../../../shared/building_and_running_chapters/Images/creative-commons-license-course.png
-   :alt: The Creative Commons license options
+      :alt: The Creative Commons license options
 
   See :ref:`Licensing a Course` for more information about license options.
 
