@@ -120,7 +120,7 @@ FIXED.
 For each video, learners see the license at the bottom right of the video
 player:
 
-.. image:: ../Images/learner_video_license.png
+.. image:: ../../../shared/building_and_running_chapters/Images/learner_video_license.png
  :alt: A video with a pointer to the license
 
 Learners can click on the license to get more information.
