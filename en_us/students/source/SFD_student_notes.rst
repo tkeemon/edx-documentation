@@ -29,7 +29,12 @@ and a pencil icon in the lower-right corner.
   :alt: Page of course content with the Notes tab at the top and the pencil icon
       in the lower-right corner
 
-The **Notes** tab lists all the notes that you have made during the course. For more information, see :ref:`The Notes Tab`.
+The **Notes** tab lists all the notes that you have made during the course.
+For more information, see :ref:`The Notes Tab`.
+
+.. note:: Learners who cannot use a mouse can use keyboard shortcuts to create, 
+ access, and delete notes. For more information about using this tool, see
+ :ref:`SFD Student Notes Accessibility`.
 
 
 ======================================
@@ -138,3 +143,79 @@ to see your notes.
 
 .. note:: If you hide student notes, you cannot make new notes. To make new
  notes, select the pencil icon to show notes.
+
+
+.. _SFD Student Notes Accessibility:
+
+*********************************************
+Keyboard Shortcuts for Student Notes
+*********************************************
+
+If you cannot use a mouse, you can use keyboard shortcuts to create, edit, and
+delete your notes.
+
+.. note:: These keyboard shortcuts work on both PCs and Macintosh computers.
+ However, you can only use these keyboard shortcuts on browsers that support
+ caret browsing.
+
+  * Internet Explorer and Firefox support caret browsing by default. 
+  * Safari supports caret browsing when VoiceOver, a feature specific to
+    screen reader and keyboard users, is turned on. For more information about
+    VoiceOver, see the `Apple website
+    <https://www.apple.com/accessibility/osx/voiceover/>`_.
+  * Chrome does not support caret browsing.
+
+If you want to use keyboard shortcuts with the Student Notes tool, you must
+make sure that notes are turned on. Notes are turned on when you see a pencil
+icon on a blue background in the lower-right corner of the page. If you see a
+pencil on a gray background, notes are turned off.
+
+.. Mark S.: The difference between on and off is just the color. I'm not sure
+.. how color-blind learners know if notes are turned on - ?
+
+.. image:: /Images/SFD_SN_NotesOn.png
+  :width: 500
+  :alt: Course page with an arrow pointing to the blue pencil icon that
+      indicates notes are turned on
+
+To turn notes on or off, press CTRL + SHIFT + LEFT BRACKET (``[``).
+
+=======================================
+Create a Note Using the Keyboard
+=======================================
+
+To create a note using keyboard shortcuts:
+
+#. Move the cursor to the left of the text that you want to highlight.
+
+.. Mark S.: Do we need to be more specific about how to move the cursor/focus
+.. to a specific area of a page?
+
+#. Hold down SHIFT + RIGHT ARROW until you have highlighted the text that you
+   want.
+#. Press CTRL + SHIFT + RIGHT BRACKET (``]``) to open the note editor.
+#. Press TAB to move the cursor to the text field, and then type your note.
+#. To save your note, press TAB to move to the **Save** button, and then press
+   ENTER.
+
+   To close the note editor without creating a note, press TAB to move to the
+   **Cancel** button, and then press ENTER. You can also press TAB to close
+   the note editor.
+
+========================================
+Edit or Delete a Note Using the Keyboard
+========================================
+
+To edit or delete a note:
+
+#. Use the keyboard to move to the note that you want.
+
+.. Mark S.: Do we need to be more specific about how to do thsi?
+
+#. Press CTRL + SPACE or CTRL + ENTER to open the note editor.
+#. Press TAB to move the cursor to the text field, and then make the changes
+   that you want.
+#. Press TAB to move to the **Edit**, **Delete**, or **Close** button, and
+   then press ENTER.
+
+To close the note editor without making any changes, press ESC.
