@@ -50,3 +50,4 @@ Course Content Index`.
    custom_python
    zooming_image
    mathjax
+   recommenderXBlock
