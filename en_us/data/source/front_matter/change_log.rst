@@ -16,7 +16,7 @@ January-March 2015
      - Change
    * - 26 Mar 15
      - Added a new chapter to describe the
-       :ref:`course_structure<`course_structure>` file.
+       :ref:`course structure<course_structure>` file.
    * - 18 Mar 2015
      - Added information about library events for students to the
        :ref:`Tracking Logs` chapter.

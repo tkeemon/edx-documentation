@@ -207,7 +207,7 @@ tab separated.
   includes data for the course, including important dates, pages, and course-
   wide discussion topics. It also identifies each item of course content
   defined in the course outline. A separate file is included for each course
-  on the site. For more information, see `course_structure`_.
+  on the site. For more information, see :ref:`course_structure`.
 
 ``{org}-{course}-{date}-courseware_studentmodule-{site}-analytics.sql``
 
