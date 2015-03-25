@@ -90,9 +90,9 @@ HTML, discussion, problem, and video components in that unit.
 Course Structure ``metadata`` Field
 ====================================
 
-The ``metadata`` field is a dictionary. It contains key-value pairs that
-describe the settings defined for the course and for each of the modules that
-it contains. 
+The ``metadata`` field is a dictionary. This field contains key-value pairs
+that describe the settings defined for the course and for each of the modules
+that it contains.
 
 .. _Course Data:
 
@@ -126,25 +126,24 @@ Studio, see `Building and Running an edX Course`_.
      - This field stores the integer entered for **Days Early for Beta Users**
        on the Studio **Advanced Settings** page.
    * - ``discussion_topics``
-     - This dictionary lists the course-wide discussion topics defined entered
-       for **Discussion Topic Mapping** on the Studio **Advanced Settings**
-       page.
+     - This dictionary lists the course-wide discussion topics entered for
+       **Discussion Topic Mapping** on the Studio **Advanced Settings** page.
    * - ``showanswer``
      - This field stores the string entered for **Show Answer** on the Studio
-       **Advanced Settings** page.. Valid values are  'always', 'answered',
+       **Advanced Settings** page. Valid values are  'always', 'answered',
        'attempted', 'closed', 'finished', 'past_due', or 'never'.
    * - ``start``
      - This field stores the value entered for **Course Start Date** on the
        Studio **Settings & Details** page.
    * - ``tabs``
-     - This array contains member dictionaries that describe the tabs, or pages,
-       that appear for the course in the learning management system (LMS).
-       Course teams can rename default pages and add pages on the Studio
-       **Pages** page. 
+     - This array contains member dictionaries that describe the tabs, or
+       pages, that appear for the course in the learning management system
+       (LMS). Course teams can rename most of the default pages, and add more
+       pages, on the Studio **Pages** page.
 
-       The **Courseware** page, which uses the structure defined by the course
-       building blocks to present the content delivered by the course
-       components, cannot be renamed.
+       The default **Courseware** page cannot be renamed. This page uses the
+       structure defined by the course building blocks to deliver the content
+       defined by the course components.
 
 ===================
 Course Data Sample
@@ -216,8 +215,8 @@ building blocks with a ``category`` value of 'chapter', 'sequential', and
 'vertical'.
 
 The sample that follows extracts the objects that represent one of the
-sections in a course, a subsection that it contains, and a unit that the
-subsection contains from a JSON ``course_structure`` document.
+sections in a course, a subsection that the section contains, and a unit that
+the subsection contains from a JSON ``course_structure`` document.
 
 The ``children`` array for each of these types of objects lists identifiers
 for objects that it contains.
@@ -251,9 +250,9 @@ Course`_ in the *Building and Running an edX Course* guide.
        this structural element to learners in the LMS and in edX Insights.
    * - ``start``
      - This field stores the value entered for the section, subsection, or
-       unit on the Studio **Course Outline** page. Course teams supply these
-       optional start dates to release course content incrementally after the
-       course start date.
+       unit on the Studio **Course Outline** page. Course teams provide these
+       optional start dates so that course content is released incrementally
+       after the course start date.
    * - ``visible_to_staff_only``
      - This Boolean indicates the setting selected for the **Hide from
        Students** option for the section, subsection, or unit on the Studio
@@ -336,9 +335,9 @@ The ``metadata`` field provides information about parameters set for a
 component. 
 
 * The ``metadata.display_name`` member field applies to all of the basic
-  component types. This name identifies this component to learners in the LMS
-  and in edX Insights. Course teams can edit the default name that Studio
-  supplies in the Studio **Settings** dialog box.
+  component types. This name identifies the component to learners in the LMS
+  and in edX Insights. Course teams can edit the default name in the Studio
+  **Settings** dialog box.
 
 * The other ``metadata`` member fields reflect settings specific to each
   component type. For information about the settings that course teams can
