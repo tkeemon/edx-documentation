@@ -56,8 +56,13 @@ Preferred Usage
   * - Contractions
     - Do not use.
   * - Cross-references
+
     - Introduce stand-alone cross-references with "For more information, see
-      ``<topic name>``. (Do not use the more abrupt "See ``<topic name>``.")
+      ``<topic name>``. (Do not use the more abrupt "See ``<topic name>``." An
+      exception is in the Glossary, where cross-references to other entries in
+      the Glossary should use See (when there is no other information in the
+      current entry) and See Also, when the current entry is complete in
+      itself and you provide a cross-reference to a related entry.)
 
       For inline cross-references, create links to words in the sentence, but
       don't use the name of the topic itself unless the capitalization works
@@ -75,6 +80,9 @@ Preferred Usage
       (.doc) file."
   * - Headings
     - TBD: How headings are worded (H1s: gerunds, etc.)
+  * - Hyphenation
+    - TBD: Our general rule for using or not using hyphenation. 
+      Provide a list of exceptions in the `Word List`_.  
   * - Images
     - Minimize use of screenshots and other graphics. For more information,
       see :ref:`Images`.
