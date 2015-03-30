@@ -568,7 +568,7 @@ mailing_address
   Collected during student registration from a text field control. A blank
   string for students who elect not to enter anything.
 
-  This column can contain multiple lines, which are separated by '\r'.
+  This column can contain multiple lines, which are separated by '``\r\n``'.
 
   **History**: This information began to be collected after the transition
   from MITx to edX; prototype course students have NULL for this field.
@@ -630,7 +630,7 @@ goals
   label "Goals in signing up for edX". A blank string for students who elect
   not to enter anything.
 
-  This column can contain multiple lines, which are separated by '\r'.
+  This column can contain multiple lines, which are separated by '``\r\n``'.
 
   **History**: This information began to be collected after the transition
   from MITx to edX; prototype course students have NULL for this field.
