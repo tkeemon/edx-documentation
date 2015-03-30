@@ -153,17 +153,16 @@ To create or edit your profile, follow these steps.
 Link or Unlink a Social Media Account
 ********************************************
 
-You can link your edX account to your Facebook or Google account. When you
+You can link your edX account to your Facebook or Google account. If you
 link your accounts, you can sign in to edX automatically by signing in to
 Facebook or Google.
 
 To link your accounts, follow these steps.
 
 #. On any edX page, click the arrow next to your username in the upper-right
-   corner, and then select **Account Settings** to access the **Account
-   Settings** page.
-#. Scroll down to the **Connected Accounts** section, and then click **Link**
-   next to either Facebook or Google. 
+   corner, and then select **Account Settings**.
+#. On the **Account Settings** page, scroll down to the **Connected Accounts**
+   section, and then click **Link** next to either Facebook or Google.
 
    If you want to unlink your edX account from your Facebook or Google
    account, click **Unlink** next to either Facebook or Google in the
