@@ -14,7 +14,7 @@ exercises you may see in your course.
 
 For more information, see the following topics.
 
-* :ref:`SFD Your Information` - Describes the type of information that you
+* :ref:`SFD Your Information` - Describes the information that you
   share with edX, including your edX profile, and how to view or change that
   information.
 * :ref:`Certificates` - Covers the different types of certificates edX offers,
