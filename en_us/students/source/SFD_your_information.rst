@@ -1,32 +1,32 @@
 .. _SFD Your Information:
 
-##################
-Your Information
-##################
+####################################
+Your Account Information and Profile
+####################################
 
 When you create an account on edX, some basic information is required,
 including your email address and your name. Only edX has access to this
 information.
     
 You can also provide additional, optional information when you create your
-account. For example, this information includes the level of education you
-have completed. Course teams for the edX courses that you take can access
-this information to learn about the people who are enrolling in their course.
+account, such as the level of education you have completed. This information
+helps staff for the edX courses that you take to learn about the people who
+enroll in their courses. The information also helps edX to offer more and
+better courses.
     
 After you create your edX account, you can also provide information for a
 personal profile. Your profile can include an image that identifies you on the
 edX site as well as your location and other biographical information. The
-course teams and the other learners in the courses that you take can view your
+course teams and the other learners your courses can view your
 profile.
 
 You can view and change your basic, additional, and profile information at any
-time. You access your information by selecting the arrow next to your username
-in the upper-right corner of any edX page and then selecting either **Account
-Settings** or **My Profile**.
+time. For more information, see :ref:`SFD Basic Information`, :ref:`SFD
+Additional Info`, and :ref:`SFD Profile Page`.
 
 You can also link your edX account to your Facebook or Google account. When you
 link your accounts, you can sign in to edX automatically by signing in to
-Facebook or Google.
+Facebook or Google. For more information, see :ref:`SFD Link Social Media`.
 
 .. _SFD Basic Information:
 
@@ -35,7 +35,7 @@ View or Change Basic Account Information
 ******************************************
 
 Basic account information includes the following information. This information
-is required for every account on edX. 
+is required for every account on edX. Only edX can see this information.
 
 * **Username**: The name that identifies you on edx.org. Note that you cannot
   change your edX username.
@@ -43,9 +43,9 @@ is required for every account on edX.
   cannot see your full name.
 * **Email Address**: The email address you use to sign in to edX. You may receive
   communications from edX and your courses at this address.
-* **Password**: Your password on edx.org. To reset your password, click **Reset
+* **Password**: Your password on edx.org. To reset your password, select **Reset
   Password**. EdX then sends a message to the email address in the **Email
-  Address** field. You click the link in the message to finish resetting your
+  Address** field. You select the link in the message to finish resetting your
   password.
 * **Language**: The language that the edX site uses during your visits. The edX site is currently
   available in a limited number of languages.
@@ -55,36 +55,35 @@ To view or change this information, follow these steps.
 
 .. note:: You cannot change your edX username.
 
-#. On any edX page, click the arrow next to your username in the upper-right
+#. On any edX page, select the arrow next to your username in the upper-right
    corner, and then select **Account Settings**.
 #. On the **Account Settings** page, locate the **Basic Account Information
-   (required)** section.
-#. To change the information, click its associated field, and then enter new
-   text in the field or select a new option from a list. Your changes are
-   saved automatically.
+   (required)** section, and then make your changes.
+
+Your changes are saved automatically.
+
+.. _SFD Additional Info:
 
 ********************************
 Specify Additional Information
 ********************************
 
-Additional account information is optional and helps edX to offer more and
-better courses.
+Additional account information is optional and includes the following
+information. Course staff can access this information to find out more about
+the learners who enroll in their courses. This information also helps edX
+increase the quality and quantity of our courses.
 
 * **Education Completed**: The highest level of education that you have completed.
 * **Gender**: The gender you identify as.
 * **Year of Birth**: The year that you were born.  
-* **Preferred Language**: The language that you speak most frequently or that
-  you prefer to communicate in.
+* **Preferred Language**: The language that you prefer to communicate in.
 
 To view or change this information, follow these steps.
 
-#. On any edX page, click the arrow next to your username in the upper-right
+#. On any edX page, select the arrow next to your username in the upper-right
    corner, and then select **Account Settings**.
 #. On the **Account Settings** page, locate the **Additional Information
-   (optional)** section.
-#. To add or change your information, click inside the field for the
-   information that you want to add or change, and then either enter text in
-   the field or select a new option from a list.
+   (optional)** section, and then make your changes.
 
 Your changes are saved automatically.
 
@@ -95,70 +94,67 @@ View, Create, or Edit an edX Profile
 *************************************
 
 Your edX profile allows you to share information about yourself, including an
-image, with the edX community. You can share a limited profile that just
-includes your username and image, or you can share a full profile that
-includes biographical information.
-
-.. image:: /Images/SFD_ViewOwnProfile.png
- :width: 500
- :alt: A learner's full profile with location, language, and short biographical paragraph
+image, with the edX community. You can share a limited profile or a full
+profile.
 
 .. note:: Learners under 13 years of age can only share a limited profile.
 
+A limited profile just includes your username and image.
+
+.. image:: /Images/SFD_Prof_Limited.png
+ :width: 400
+ :alt: A learner's limited profile showing only username and image
+
+A full profile includes biographical information.
+
+.. image:: /Images/SFD_Prof_Full.png
+ :width: 500
+ :alt: A learner's full profile with location, language, and short
+     biographical paragraph
+
 ================================
-Create or Edit Your edX Profile
+Create or Edit a Limited Profile
 ================================
 
-Your profile can be a limited profile or a full profile.
+A limited profile can include only your username and an image. Your username
+is required.
 
-* A limited profile can include the following information. Only your
-  username is required.
+To create or edit a limited profile, follow these steps.
 
-  * Your username.
-  * An image that you select to identify you on the edX site.
-
-* A full profile can include the following information. Only your username is
-  required.
- 
-  * Your username.
-  * An image that you select to identify you on the edX site.
-  * Your country or region.
-  * Your preferred language.
-  * A paragraph about yourself.
-
-To create or edit your profile, follow these steps.
-
-#. On any edX page, click the arrow next to your username in the upper-right
+#. On any edX page, select the arrow next to your username in the upper-right
    corner, and then select **My Profile**.
-#. Specify your profile type. To do this, locate the **edX learners can see
-   my** text in the upper-left corner of the page, and then select either
-   **Limited Profile** or **Full Profile**.
+#. On your profile page, locate the **edX learners can see my** text in the
+   upper-left corner of the page, and then select **Limited Profile**.
 
-#. If you select **Limited Profile**, add an image that you want to associate
-   with your edX username. All changes are saved automatically.
+#. (optional) Add an image that you want to associate with your edX username.
+   All changes are saved automatically.
 
-   If you select **Full Profile**, do any of the following. All changes are
-   saved automatically.
+================================
+Create or Edit a Full Profile
+================================
 
-   .. note:: You must specify your year of birth on the **Account Settings** page 
+.. note:: You must specify your year of birth on the **Account Settings** page 
      before you share a full profile. If you are under age 13, you can only
      share a limited profile.
 
-   * Add an image that you want to associate with your edX username.
+A full profile can include the following information. Only your username is
+required.
+ 
+* Your username.
+* An image that you select to identify you on the edX site.
+* Your country or region.
+* Your preferred language.
+* A paragraph about yourself. You might include your interests, goals, or
+  other information that you want to share.
 
-   * Select your country or region. You can also change this information on
-     your **Account Settings** page.
+To create or edit your profile, follow these steps.
 
-   * Specify your preferred language. You can also change this information on
-     your **Account Settings** page.
-
-   * Under **About Me**, enter a paragraph that describes you. You might
-     include your interests, goals, or other information that you
-     want to share.
-
-To add or change your information, follow these steps.
-
-#. Hover the mouse pointer over the field forthe information that you want to add or change.
+#. On any edX page, select the arrow next to your username in the upper-right
+   corner, and then select **My Profile**.
+#. Locate the **edX learners can see my** text in the upper-left corner of the
+   page, and then select **Full Profile**.
+#. On your profile page, move your cursor over the information that you
+   want to add or change.
 
    If you have not added information to the field, the field appears
    highlighted and surrounded by a dashed line.
@@ -174,7 +170,7 @@ To add or change your information, follow these steps.
     :width: 500
     :alt: A profile page with the "About Me" field highlighted
 
-#. Click inside the field, and then either enter text in the field or select a
+#. Move your cursor inside the field, and then either enter text in the field or select a
    new option from a list.
 
 Your changes are saved automatically.
@@ -190,14 +186,13 @@ View Another Learner's Profile
 
 You view other learners' profiles through the course discussions.
 
-#. On the **Discussion** tab, select the username of any learner in an
-   original post, a response, or a comment.
+#. On the **Discussion** page, select the username of any learner in a post, a
+   response, or a comment.
 #. When the **Active Threads** page for that learner opens, select the
    learner's username in the upper-left corner of the page.
 
-The following image shows a learner's username in an original post, the
-learner's username on the **Active Threads** page, and the learner's profile
-page.
+The following image shows a learner's username in a post, the learner's
+username on the **Active Threads** page, and the learner's profile page.
 
 .. image:: /Images/SFD_Prof_from_Disc.png
   :width: 600
@@ -205,6 +200,7 @@ page.
       that learner's active threads page in the course discussions, and an
       image of the learner's profile
 
+.. _SFD Link Social Media:
 
 ********************************************
 Link or Unlink a Social Media Account
@@ -216,11 +212,11 @@ Facebook or Google.
 
 To link your accounts, follow these steps.
 
-#. On any edX page, click the arrow next to your username in the upper-right
+#. On any edX page, select the arrow next to your username in the upper-right
    corner, and then select **Account Settings**.
-#. On the **Account Settings** page, scroll down to the **Connected Accounts**
-   section, and then click **Link** next to either Facebook or Google.
+#. In the **Connected Accounts**
+   section, select **Link** next to either Facebook or Google.
 
    If you want to unlink your edX account from your Facebook or Google
-   account, click **Unlink** next to either Facebook or Google in the
+   account, select **Unlink** next to either Facebook or Google in the
    **Connected Accounts** section.
