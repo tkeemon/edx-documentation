@@ -82,25 +82,9 @@ To view or change this information, follow these steps.
    corner, and then select **Account Settings**.
 #. On the **Account Settings** page, locate the **Additional Information
    (optional)** section.
-#. To add or change your information, hover the mouse pointer over the field
-   for the information that you want to add or change. 
-
-   If you have not added information to the field, the field appears
-   highlighted and surrounded by a dashed line.
-
-   .. image:: /Images/SFD_Prof_Add_Info.png
-    :width: 300
-    :alt: A profile page with the "Add language" highlighted and surrounded by a dashed line
-
-   If the field already has information, the field appears highlighted, and a
-   pencil icon appears in the upper-right corner.
-
-   .. image:: /Images/SFD_Prof_Edit_Info.png
-    :width: 500
-    :alt: A profile page with the "About Me" field highlighted
-
-#. Click inside the field, and then either enter text in the field or select a
-   new option from a list.
+#. To add or change your information, click inside the field for the
+   information that you want to add or change, and then either enter text in
+   the field or select a new option from a list.
 
 Your changes are saved automatically.
 
@@ -171,6 +155,29 @@ To create or edit your profile, follow these steps.
    * Under **About Me**, enter a paragraph that describes you. You might
      include your interests, goals, or other information that you
      want to share.
+
+To add or change your information, follow these steps.
+
+#. Hover the mouse pointer over the field forthe information that you want to add or change.
+
+   If you have not added information to the field, the field appears
+   highlighted and surrounded by a dashed line.
+
+   .. image:: /Images/SFD_Prof_Add_Info.png
+    :width: 300
+    :alt: A profile page with the "Add language" highlighted and surrounded by a dashed line
+
+   If the field already has information, the field appears highlighted, and a
+   pencil icon appears in the upper-right corner.
+
+   .. image:: /Images/SFD_Prof_Edit_Info.png
+    :width: 500
+    :alt: A profile page with the "About Me" field highlighted
+
+#. Click inside the field, and then either enter text in the field or select a
+   new option from a list.
+
+Your changes are saved automatically.
 
 .. note:: If you change the profile type selection from **Full Profile** 
  to **Limited Profile**, your location, language, and descriptive paragraph
